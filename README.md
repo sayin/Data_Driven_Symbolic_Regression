@@ -6,6 +6,11 @@ The codes consits of three parts:
 2) Trucation Error Analysis using GEP and STRidge,
 3) Hidden Physics Discovery using GEP and LES Eddy Viscosity Modelling using GEP and STRidge. 
 
+References:
+1) Vaddireddy, H., Rasheed, A., Staples, A. E., & San, O. (2020). Feature engineering and symbolic regression methods for detecting hidden physics from sparse sensor observation data. Physics of Fluids, 32(1), 015113. (https://aip.scitation.org/doi/full/10.1063/1.5136351)
+
+2) Vaddireddy, H., & San, O. (2019). Equation discovery using fast function extraction: A deterministic symbolic regression approach. Fluids, 4(2), 111. (https://www.mdpi.com/2311-5521/4/2/111)
+
 # ACKNOWLEDGMENTS:
 This material is based upon work supported by the U.S. Department of Energy, Office of Science, Office of Advanced Scientific
 Computing Research under Award No. DE-SC0019290. O.S. gratefully acknowledges their support.
