@@ -4,7 +4,7 @@ In this study we put forth a modular approach for distilling hidden flow physics
 The codes consits of three parts:
 1) Equation Discovery using GEP and STRidge,
 2) Trucation Error Analysis using GEP and STRidge,
-3) Hidden Physics Discovery using GEP and LES Eddy Viscosity Modelling using GEP and STRidge. 
+3) Hidden Physics Discovery using GEP and LES sub grid scale Modelling using GEP and STRidge. 
 
 References:
 1) Vaddireddy, H., Rasheed, A., Staples, A. E., & San, O. (2020). Feature engineering and symbolic regression methods for detecting hidden physics from sparse sensor observation data. Physics of Fluids, 32(1), 015113. (https://aip.scitation.org/doi/full/10.1063/1.5136351)
