@@ -17,6 +17,12 @@ Chromosome |  GEP Flow chart
 
 <img src="https://github.com/sayin/Data_Driven_Symbolic_Regression/blob/master/part4_results/figure3.png" width="600" height="400" >
 
+>**Hidden source term identified from sparse data collected from 2D vortex merger**.
+
+ GEP | 2D vortex meger
+------------ |------------ 
+<img src="https://github.com/sayin/Data_Driven_Symbolic_Regression/blob/master/part4_results/figure33.png" width="350" height="300">| <img src="https://github.com/sayin/Data_Driven_Symbolic_Regression/blob/master/part4_results/figure34.png" width="350" height="300">
+
 >**Smagorinsky eddy viscosity turbulence model  identified by GEP and Sparse regression along with ad-hoc (calibrated) parameter for 2D decaying trubulence**.
 
  GEP | Sparse regression | 2D decaying trubulence with identified SGS model
