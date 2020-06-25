@@ -8,9 +8,9 @@ In this study we put forth a modular approach for distilling hidden flow physics
 2) Trucation Error Analysis using GEP and STRidge,
 3) Hidden Physics Discovery using GEP and LES sub grid scale Modelling using GEP and STRidge. 
 
-**Genetic/Gene Expression Programming:**
+**Genetic/Gene Expression Programming:**              
 
-<img src="https://github.com/sayin/Data_Driven_Symbolic_Regression/blob/master/part4_results/figure1.png" width="450" height="400">
+<img src="https://github.com/sayin/Data_Driven_Symbolic_Regression/blob/master/part4_results/figure1.png" width="450" height="400"> <img src="https://github.com/sayin/Data_Driven_Symbolic_Regression/blob/master/part4_results/figure2.png" width="450" height="400">
 
 
 **Published Journals:**
