@@ -14,7 +14,7 @@ In this study we put forth a modular approach for distilling hidden flow physics
 
 **Sparse Regression:**              
 
-<img src="https://github.com/sayin/Data_Driven_Symbolic_Regression/blob/master/part4_results/figure3.png" >
+<img src="https://github.com/sayin/Data_Driven_Symbolic_Regression/blob/master/part4_results/figure3.png" width="600" height="400" >
 
 **Published Journals:**
 1) Vaddireddy, H., Rasheed, A., Staples, A. E., & San, O. (2020). Feature engineering and symbolic regression methods for detecting hidden physics from sparse sensor observation data. Physics of Fluids, 32(1), 015113. (https://aip.scitation.org/doi/full/10.1063/1.5136351)
