@@ -19,9 +19,9 @@ Chromosome |  GEP Flow chart
 
 >**Smagorinsky eddy viscosity turbulence model  identified by GEP and Sparse regression along with ad-hoc (calibrated) parameter for 2D decaying trubulence**.
 
-GEP | Sparse regression
------------- | -------------
-<img src="https://github.com/sayin/Data_Driven_Symbolic_Regression/blob/master/part4_results/figure35.png" width="350" height="300">| <img src="https://github.com/sayin/Data_Driven_Symbolic_Regression/blob/master/part4_results/figure36.png" width="350" height="300">
+2D decaying trubulence | GEP | Sparse regression
+------------ |------------ | -------------
+<img src="https://github.com/sayin/Data_Driven_Symbolic_Regression/blob/master/part4_results/figure37.png" width="350" height="300">|<img src="https://github.com/sayin/Data_Driven_Symbolic_Regression/blob/master/part4_results/figure35.png" width="350" height="300">| <img src="https://github.com/sayin/Data_Driven_Symbolic_Regression/blob/master/part4_results/figure36.png" width="350" height="300">
 
 
 
