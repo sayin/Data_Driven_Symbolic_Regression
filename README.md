@@ -15,7 +15,7 @@ Chromosome |  GEP Flow chart
 
 **Sparse Regression:**              
 
-<img src="https://github.com/sayin/Data_Driven_Symbolic_Regression/blob/master/part4_results/figure3.png" width="300" height="100" >
+<img src="https://github.com/sayin/Data_Driven_Symbolic_Regression/blob/master/part4_results/figure3.png" width="500" height="350" >
 
 >**Hidden source term identified from sparse data collected from 2D vortex merger**.
 
