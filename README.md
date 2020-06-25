@@ -10,7 +10,7 @@ In this study we put forth a modular approach for distilling hidden flow physics
 
 **Genetic/Gene Expression Programming:**
 
-![GEP](https://github.com/sayin/Data_Driven_Symbolic_Regression/blob/master/part4_results/figure1.png| width=100)
+![GEP](https://github.com/sayin/Data_Driven_Symbolic_Regression/blob/master/part4_results/figure1.png | width=100)
 
 
 **Published Journals:**
