@@ -9,6 +9,7 @@ In this study we put forth a modular approach for distilling hidden flow physics
 3) Hidden Physics Discovery using GEP and LES sub grid scale Modelling using GEP and STRidge. 
 
 **Genetic/Gene Expression Programming:**
+
 ![GEP](https://github.com/sayin/Data_Driven_Symbolic_Regression/blob/master/part4_results/figure1.png)
 
 
