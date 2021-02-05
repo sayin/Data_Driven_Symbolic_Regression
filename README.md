@@ -1,3 +1,5 @@
+**In part1_eqation_discovery/stridge_eq_disc/ contains sparse Optimzation algorithm
+
 >**Interpretable machine learning (symbolic regression) using Genetic programming/Gene expression programming and Sparse Optimization used to identify physical process, numerical schemes, and LES subgrid scale (eddy viscosity) turbulence models.**
 
 # Abstarct:
