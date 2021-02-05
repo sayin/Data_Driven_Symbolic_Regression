@@ -13,7 +13,7 @@ Chromosome |  GEP Flow chart
 ------------ | -------------
 <img src="https://github.com/sayin/Data_Driven_Symbolic_Regression/blob/master/part4_results/figure1.png" width="350" height="300">| <img src="https://github.com/sayin/Data_Driven_Symbolic_Regression/blob/master/part4_results/figure2.png" width="350" height="300">
 
-**Sparse Regression:**              
+**Sparse Optimization:**              
 
 <img src="https://github.com/sayin/Data_Driven_Symbolic_Regression/blob/master/part4_results/figure3.png" width="500" height="350" >
 
